@@ -18,13 +18,11 @@ OLI Modules + Lecture Videos for examples, Java syntax rules, and strategy
 Labs for larger examples, getting inspiration or ideas
 
 ## Scoring Guide: ##
-All group members might not recieve the same score. Be sure to indicate which parts of the project you contributed. You may also be asked to explain portions of the code so that I can distinguish your personal understanding of the material.
+All group members might not receive the same score. Be sure to indicate which parts of the project you contributed. You may also be asked to explain portions of the code so that I can distinguish your personal understanding of the material.
 
-Not Assessable (N): Not enough information is present in the work to determine whether there is understanding of the concepts.
-
-Revision Needed (R): Partial understanding of the concepts is evident, but there are significant gaps. Further review and improvements required. Program does not run or not all requirements are met. 
-
-Satisfactory (S): Understanding of the concepts is evident. Code compiles and runs without errors. All of the requirements are met.
-
-Exemplary (E): Everything for S plus code is well-documented and follows all course style conventions. This work could be used as a classroom example.
-
+| Score               | Description                                                                                                                                                                       |
+|---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **E**xemplary       | Everything for an A plus code is well-documented and follows all course style conventions. This work could be used as a classroom example.                                        |
+| **A**cceptable      | Understanding of the concepts is evident. Code compiles and runs without errors. All of the requirements are met.                                                                 |
+| **R**evision Needed | Partial understanding of the concepts is evident, but there are significant gaps. Further review and improvements required. Program does not run or not all requirements are met. |
+| **N**ot Assessable  | Not enough information is present in the work to determine whether there is understanding of the concepts.                                                                        |
