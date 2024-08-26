@@ -15,7 +15,7 @@ OR
 ## Resources: ##
 OLI Modules + Lecture Videos for examples, Java syntax rules, and strategy
 
-Replit Labs for larger examples, getting inspiration or ideas
+Labs for larger examples, getting inspiration or ideas
 
 ## Scoring Guide: ##
 All group members might not recieve the same score. Be sure to indicate which parts of the project you contributed. You may also be asked to explain portions of the code so that I can distinguish your personal understanding of the material.
